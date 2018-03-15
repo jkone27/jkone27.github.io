@@ -1,10 +1,12 @@
 # About Me #
 
-I define myself as software worker, we are somewhat far more similar to industrial worker, in this dawn of the third industrial revolution.
-I enjoy to program in C# and F#, in .NET.
-this website is just a test.
+I am a software worker, in this dawn of the third industrial revolution.
+I enjoy to program in C# and F#, in .NET. 
+I graduated in electronic engineering, mostly forgot about it, i do like abstractions.
 
-# Mantras are subject to variation over time and are mostly in random order as advices in life #
+
+# Current Mantra List #
+## subject to variation in time and space ##
 
 * readable
 * human

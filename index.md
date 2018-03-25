@@ -10,13 +10,13 @@ I graduated in electronic engineering, mostly forgot about it, i do like abstrac
 
 * readable
 * human
-* the error is most probably where the compiler says
+* listen to the compiler
 * composition over inheritance
 * we constantly try to map higher dimensional spaces into lower dimensional spaces via projections
 * too much fear makes the developer slow and useless
 * please give us integration testing or e2e testing
-* too little fear makes the developer dumb
-* production testing with no test is panic attack
+* no dread makes the developer dumb
+* production testing can be hard
 * class member variables are to be initialized by te constructor, fuck the builder pattern, pocos are ok but still why
 * too many interfaces make guys go crazy
 * a class/interface must have one or few purposes
@@ -34,7 +34,7 @@ I graduated in electronic engineering, mostly forgot about it, i do like abstrac
 * di containers: + flexibility, - compiletime check
 * object relational mapper: micro orm are cool, dapper is nice, Sql type provider is cooler
 * swagger type provider is cool
-* you can express polymorhism in different ways, interface inheritance and composition, generic polymorhism, union (sum|+) types
+* you can express polymorhism in different ways, interface inheritance and composition, generic polymorhism, union (sum|\+) types
 * usually separating data from behaviour is a good habit (fp)
 * the observable pattern is also implemented by event handlers and event queues
 * factory pattern does not solve all your problems

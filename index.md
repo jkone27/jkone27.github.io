@@ -1,9 +1,9 @@
 # Giacomo
 
 <nav>
-
-  [HTML](html.md) | [Random](bulletList.md) | [Contact](contact.md) | [rnd2](./test/poll.md)
-
+  <div markdown="1">
+  [HTML](/html) | [Random](/bulletList) | [Contact](/contact) | [rnd2](/test/poll)
+  </div>
 </nav>
 
 # About Me #

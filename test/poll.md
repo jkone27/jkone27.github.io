@@ -1,3 +1,7 @@
+---
+permalink: /test/poll/
+---
+
 # Poll 
 
 * A

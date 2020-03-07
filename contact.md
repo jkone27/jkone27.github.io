@@ -1,3 +1,7 @@
+---
+permalink: /contact/
+---
+
 <!-- https://docs.google.com/forms/d/e/1FAIpQLScXM1VXgxbZCnwtuE8xdwKzJokwfvjzZXB7LafKqZiiYXWZVw/viewform?usp=pp_url&entry.2005620554=test&entry.1045781291=test@emai.com&entry.839337160=what+if+bla+bla+bl? -->
 
 <script src="assets/js/jquery.min.js"></script>

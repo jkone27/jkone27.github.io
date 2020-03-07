@@ -1,3 +1,7 @@
+---
+permalink: /html/
+---
+
 ```html
 <!DOCTYPE html>
 <html>

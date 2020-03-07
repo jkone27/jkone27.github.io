@@ -1,3 +1,6 @@
+---
+permalink: /bulletList/
+---
 
 # A bullet-list #
 

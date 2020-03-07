@@ -2,7 +2,7 @@
 
 <nav>
 
-  [HTML](html.md) | [Random](bulletList.md) | [Contact](contact.md) | [rnd2](./test/poll.md)
+  [HTML](/html) | [Random](/bulletList) | [Contact](/contact) | [rnd2](/test/poll)
 
 </nav>
 

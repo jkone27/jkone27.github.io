@@ -7,6 +7,8 @@ permalink: /form/
 <!-- https://github.com/toperkin/staticFormEmails didnt work :( 
   
   https://docs.google.com/forms/d/e/1FAIpQLScXM1VXgxbZCnwtuE8xdwKzJokwfvjzZXB7LafKqZiiYXWZVw/viewform?usp=pp_url&entry.2005620554=John&entry.1045781291=JohnBuck@Bucks.com&entry.839337160=Why+dont+you+mind+your+business?
+
+  if not working coudl be worth it: https://dev.to/omerlahav/submit-a-form-to-a-google-spreadsheet-1bia
   -->
 
 <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/1FAIpQLScXM1VXgxbZCnwtuE8xdwKzJokwfvjzZXB7LafKqZiiYXWZVw/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">

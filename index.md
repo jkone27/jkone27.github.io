@@ -1,6 +1,6 @@
 <nav>
   <div markdown="1">
-  [HTML](/html) | [Random](/bulletList) | [Contact](/contact) | [rnd2](/test/poll)
+  [HTML](/html) | [Random](/bulletList) | [Contact](/contact) | [Form](/form)
   </div>
 </nav>
 

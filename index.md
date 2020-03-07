@@ -1,5 +1,3 @@
-# Giacomo
-
 <nav>
   <div markdown="1">
   [HTML](/html) | [Random](/bulletList) | [Contact](/contact) | [rnd2](/test/poll)

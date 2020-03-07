@@ -14,14 +14,10 @@ permalink: /contact/
     Your Name:
     <input type="text" name="name">
   </label>
-  </br>
-  </br>
   <label>
     Your Email:
     <input type="email" name="_replyto">
   </label>
-  </br>
-  </br>
   <label>
     Message:
     <textarea rows="20" cols="50" name="message"></textarea>

@@ -1,12 +1,12 @@
 <nav>
   <div markdown="1">
-  [HTML](/html) | [Random](/bulletList) | [Contact](/contact) | [Form](/form) | [CV](/cv)
+  [CV](/cv)
   </div>
 </nav>
 
 # About Me #
 
-A software "worker", at the dawn of the third industrial revolution.
+See [CV](/cv) for more details.
 Try to make it philosophical, make it jazzy, attune and untune.
 F# is my favorite language.
 

@@ -45,6 +45,24 @@ Technology in use was mostly aspnetcore HTTP microservices, ef-core for ORM, goo
 
 * **CAE**, 2008-2009. Test software for remote radio environmental sensing units. C++, winforms, C.
 
+## Skills and Interests ##
+* C#
+* **F#**
+* javascript
+* HTML/css
+* SQL
+* microservices
+* git
+* object oriented programming
+* functional programming
+* TDD
+* reactive extensions
+* AMQP
+* openapi
+* refactoring legacy code
+* reverse engineering
+* graph databases
+
 ## Spoken Languages ##
 * Italian, native speaker
 * English, fluent

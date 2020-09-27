@@ -5,7 +5,7 @@ permalink: /cv/
 # Giacomo Parmigiani #
 
 ![me](
-https://www.gravatar.com/avatar/bd6eef2e04875405154f8b966fc87915)
+https://www.gravatar.com/avatar/bd6eef2e04875405154f8b966fc87915?s=200)
 
 **Tech Lead** and **Senior Software Engineer** @ Travix International, cheaptickets.nl (Trip.com group). Specialized in **.NET** and **.netcore** ecosystem and backend software development.
 
@@ -22,9 +22,9 @@ https://www.gravatar.com/avatar/bd6eef2e04875405154f8b966fc87915)
 ## Work Experience ##
 
 ### Tech Lead ###
-* **Travix International**, 2019-2020. Online Ticketing Agency, Backoffice Area. In a small sized team of developers, following projects within the domain of flight ticketing automation, schedule changes, baggage and seats product fulfillment (EMDs). 
-</br>Integration with supplier systems for internal and B2B ticket transactions. Following architecture design, coding and deliverables together with product-owner, running regular alignment sessions for the team and collaborating with other teams, stakeholders and managers for delivering new features and adjusting the software quality. 
-</br>Technology in use was mostly aspnetcore HTTP microservices, ef-core for ORM, google cloud deployments with K8s or VMs (using legacy aspnet apps on IIS), estafette as a deployment system and infrastructure and resources provisioning system.
+* **Travix International**, 2019-2020. Online Ticketing Agency, Backoffice Area. In a small sized team of developers, following projects within the domain of flight ticketing automation, schedule changes, baggage and seats product fulfillment (EMDs).  
+Integration with supplier systems for internal and B2B ticket transactions. Following architecture design, coding and deliverables together with product-owner, running regular alignment sessions for the team and collaborating with other teams, stakeholders and managers for delivering new features and adjusting the software quality.  
+Technology in use was mostly aspnetcore HTTP microservices, ef-core for ORM, google cloud deployments with K8s or VMs (using legacy aspnet apps on IIS), estafette as a deployment system and infrastructure and resources provisioning system.
 
 ### Senior Software Engineer ##
 

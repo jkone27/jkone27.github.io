@@ -68,3 +68,5 @@ Technology in use was mostly aspnetcore HTTP microservices, ef-core for ORM, goo
 * English, fluent
 * Spanish, portugues: basic
 * Dutch, learning/novice
+
+<!-- https://md2pdf.netlify.app/ -->

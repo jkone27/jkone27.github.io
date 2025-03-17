@@ -81,7 +81,6 @@ Technology in use was mostly aspnetcore HTTP microservices, ef-core for ORM, goo
   * reverse engineering
   * full stack software development (read below) 
 
-
 ### Backend 👨🏻‍🔬
 
 * **F#** (ocaml dotnet implementation) ⭐️⭐️⭐️⭐️⭐️
@@ -96,8 +95,6 @@ Technology in use was mostly aspnetcore HTTP microservices, ef-core for ORM, goo
 
 * java / springboot / maven ⭐️⭐️
 * rust / cargo ⭐️
-* python / pip / venv / poetry ⭐️
-* golang (go) ⭐️
 
 * DB 
   * pgsql ⭐️⭐️⭐️⭐️
@@ -114,19 +111,14 @@ Technology in use was mostly aspnetcore HTTP microservices, ef-core for ORM, goo
 * JavaScript ️⭐️⭐️⭐️
 * React.js ⭐️⭐️⭐️
 * Redux ⭐️
-* HTMX ⭐️⭐️
 * npm / Node.js ⭐️⭐️⭐️
 * express.js ⭐️⭐️
 * HTML/css ⭐️⭐️⭐️
 * Vite / vitest ⭐️⭐️ (bundler / test)
 * jest ⭐️⭐️
-* puppeteer ⭐️⭐️
-* deno/bun ⭐️
-* svelte ⭐️
-* nextjs ⭐️
-* angular ⭐️
 * **F#** (Fable.io js./.ts, or wasm) ⭐️⭐️⭐️
 * C# (blazor/wasm) ⭐️⭐️⭐️
+* HTMX ⭐️⭐️
 
 
 ## Spoken Languages 🗣️

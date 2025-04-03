@@ -19,9 +19,9 @@ https://2.gravatar.com/avatar/008a11ef47f86c95e7d7577ca959dfde4c6481a783f8147b46
 * **Master of Science**, 2011-2014. **Electronic Engineering and Information Systems**, Univerisity of Bologna (Alma mater studiorum), Italy. Thesis: opencv, C, 3d disparity, random sample and consensus algorithms.
 * **Bachelor of Science**, 2008-2011. **Electronic And Telecomunication Engineering**, Univerisity of Bologna (Alma mater studiorum), Italy. Thesis: Python, MIDI, 
 
-## Work Experience ##
+## Work experience ##
 
-### Tech Lead (current) ###
+### .NET Tech Lead ###
 
 * **Travix International**: OTA, Online Ticketing Agency, 2020, Backoffice Area. 
 C#/F# (.net) worked on some node.js and java reactive spring services as well to a smaller extent.
@@ -52,76 +52,30 @@ Technology in use was mostly aspnetcore HTTP microservices, ef-core for ORM, goo
 
 ## Skills 👨🏽‍🔧
 
-  Confortable to work on macos, linux/ubuntu or windows/wsl. 
+### Backend ⭐️⭐️⭐️⭐️⭐️
 
-  * git (vcs) ⭐️⭐️⭐️⭐️
-  * observability ️⭐️⭐️
-    * open-telemetry / agents ⭐️
-    * Kibana and Elasticsearch (logs - observability) ️⭐️⭐️
-      * elastalert
-    * Grafana and Prometheus (metrics - observability) ️⭐️⭐️
-      * prometheus alert
-  * docker, compose, dev-containers ⭐️⭐️⭐️⭐️
-  * terraform / pulumi (infrastructure as code) ⭐️
-  * k8s ⭐️⭐️⭐️
-  * microservices ⭐️⭐️⭐️⭐️⭐️
-    * REST-ful APIs
-    * HTTP
-    * GRPC
-  * openapi / contract-first development ⭐️⭐️⭐️⭐️
-  * unix commands ⭐️⭐️
-  * unix/linux admin ⭐️
-  * IDE vscode (w most languages)  ⭐️⭐️⭐️⭐️⭐️
-  * object-oriented programming (+solid) ⭐️⭐️⭐️⭐️⭐️
-  * functional programming ⭐️⭐️⭐️⭐️⭐️
-  * TDD / unit tests / integration tests  ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
-  * reactive extensions (RX)
-  * AMQP (rabbitmq)
-  * refactoring legacy code
-  * reverse engineering
-  * full stack software development (read below) 
+  * .NET BE (strong): microservices / REST / SOLID / TDD / .NET / aspnetcore / efcore / dapper (C#/F#)
+  * Java BE (medium): springboot / java / rx java / maven / scala
+  * others BE (not in depth): golang / rust / python
+  * SQL BE (medium) :  mssql / pgsql
+  * other DBs (ok): document (mongo), kv (redis), graph (node4j)
 
-### Backend 👨🏻‍🔬
+### Frontend and full-stack ⭐️⭐️⭐️
 
-* **F#** (ocaml dotnet implementation) ⭐️⭐️⭐️⭐️⭐️
-* C# ⭐️⭐️⭐️⭐️⭐️
-  * **Aspnetcore** ⭐️⭐️⭐️⭐️⭐️
-  * **entity-framework** / dapper ⭐️⭐️⭐️⭐️
-  * XUnit / MsTest ⭐️⭐️⭐️⭐️⭐️
-    * unit tests
-    * web integration tests
+  * JS full-stack (medium): nodejs / npm / express/ ts / js /ts-openapi / rx-js
+  * JS FE (medium): react / storybook / vite / redux / jest / vitest / ts / js / html / css / htmx / F# / fable
 
-* **SQL** (mssql/pgsql) ⭐️⭐️⭐️⭐️
+### cross cutting
 
-* java / springboot / maven ⭐️⭐️
-* rust / cargo ⭐️
+  * observability: kibana/grafana
+  * containers: docker/k8s 
+  * elastalert / prometheus alert
 
-* DB 
-  * pgsql ⭐️⭐️⭐️⭐️
-  * Redis ⭐️⭐️
-  * Document/mongo/json ⭐️⭐️
-  * graph databases (neo4j) ⭐️⭐️
-  * xml dbs / xmlpath ⭐️
-  * time series (prometheus) ⭐️
-  * full search (elastic) ⭐️
+### more...
 
-### Frontend 🪐
+see: [skills details](/skills.md)
 
-* TypeScript ️⭐️⭐️⭐️
-* JavaScript ️⭐️⭐️⭐️
-* React.js ⭐️⭐️⭐️
-* Redux ⭐️
-* npm / Node.js ⭐️⭐️⭐️
-* express.js ⭐️⭐️
-* HTML/css ⭐️⭐️⭐️
-* Vite / vitest ⭐️⭐️ (bundler / test)
-* jest ⭐️⭐️
-* **F#** (Fable.io js./.ts, or wasm) ⭐️⭐️⭐️
-* C# (blazor/wasm) ⭐️⭐️⭐️
-* HTMX ⭐️⭐️
-
-
-## Spoken Languages 🗣️
+## Spoken languages 🗣️
 * Italian, native speaker 🇮🇹
 * English, fluent 🇬🇧
 * Dutch, learning 🇳🇱

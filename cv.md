@@ -55,8 +55,8 @@ Technology in use was mostly aspnetcore HTTP microservices, ef-core for ORM, goo
 ### Backend ⭐️⭐️⭐️⭐️⭐️
 
   * .NET BE (strong): microservices / REST / SOLID / TDD / .NET / aspnetcore / efcore / dapper (C#/F#)
-  * Java BE (medium): springboot / java / rx java / maven / scala
-  * others BE (not in depth): golang / rust / python
+  * Java BE (medium / novice): springboot / java / rx java / maven / scala
+  * others BE (novice): golang / rust / python
   * SQL BE (medium) :  mssql / pgsql
   * other DBs (ok): document (mongo), kv (redis), graph (node4j)
 
